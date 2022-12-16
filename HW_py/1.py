@@ -10,18 +10,18 @@
 print("Input day number of week  from 1 to 7")
 dayOfWeek=int(input())
 if (dayOfWeek==1):
-    print("Monday")
+    print("NO")
 elif (dayOfWeek==2):
-    print("Tuesday")
+    print("NO")
 elif(dayOfWeek==3):
-    print("Wednesday")
+    print("NO")
 elif(dayOfWeek==4):
-    print("Thursday")
+    print("NO")
 elif (dayOfWeek==5):
-    print("Friday")
+    print("NO")
 elif(dayOfWeek==6):
-    print("Saturday")
+    print("YES")
 elif(dayOfWeek==7):
-    print("Sunday")
+    print("YES")
 
 
